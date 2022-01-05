@@ -17,7 +17,7 @@
 /*
  * FSMC driver system settings.
  */
-#define STM32_FSMC_USE_FSMC1                FALSE
+#define STM32_FSMC_USE_FSMC1                TRUE
 #define STM32_FSMC_FSMC1_IRQ_PRIORITY       10
 
 /*

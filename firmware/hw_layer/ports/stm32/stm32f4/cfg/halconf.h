@@ -204,6 +204,8 @@
 #define UART_USE_MUTUAL_EXCLUSION   FALSE
 #endif
 
+#define HAL_USE_FSMC TRUE
+
 /* common for all STM32 */
 #include "../../cfg/halconf_community.h"
 
